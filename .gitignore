@@ -1,0 +1,76 @@
+# =====================
+# PYTHON + STREAMLIT IGNORE FILE
+# =====================
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache + Logs
+*.log
+*.pot
+*.mo
+*.sqlite3
+*.db-journal
+*.tmp
+*.bak
+.cache/
+.pytest_cache/
+.streamlit/
+logs/
+*.pid
+
+# Environment & credentials
+.env
+.env.*
+*.env
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
+*.ipynb
+
+# Compiled or binary files
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Database files (optional: keep local only)
+chatbot.db
+database/chatbot.db
+
+# Output / Build folders
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# Temporary uploads or export folders
+uploads/
+exports/
+assets/temp/
+*.zip
+*.tar.gz
+
+# macOS or Windows
+ehthumbs.db
+Icon?
+desktop.ini
